@@ -1,4 +1,4 @@
-# 
+# Docker Desktop for PC | Docker Desktop for Windows smart Plugin: log-management & resource-monitoring offers the most advanced Docker Desktop for PC | Docker Desktop for Windows
 
 
 
